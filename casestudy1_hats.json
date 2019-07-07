@@ -1,0 +1,17 @@
+[{"PRODNAME":"LIGHTZSHOWHAT",
+"GRPHNAME":"LIGHTZSHOWHATPIC",
+"COSTPRICE":"20.99",
+"MSRP":"35.35",
+"QTYONHAND":"10",
+"QTYONBACKORDER":"50",
+"DESC":"The base color of the hat is black. It is decorated with glow sticks. Why go to a light show when you can wear it? You'll be sure to be in the spotlight wearing this hat!",
+"BRAND":"CRAZEWEARZ"},
+{"PRODNAME":"DISGUIZEHAT",
+"GRPHNAME":"DISGUIZEHATPIC",
+"COSTPRICE":"15.35",
+"MSRP":"20.30",
+"QTYONHAND":"3",
+"QTYONBACKORDER":"12",
+"DESC":"Want to wear a disguise but to lazy to get all the materials to make one? Well fear no more! This hat has it all! It comes with a wig, and sunglasses attached! (Note: Decorations may vary)",
+"BRAND":"CRAZEWEARZ"}
+]
